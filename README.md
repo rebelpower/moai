@@ -9,7 +9,7 @@ Moai /ˈmoʊ.aɪ/ provides competitive intelligence by tracking the unique regul
 | ![Charles](moai-charles.jpg) | Meet Charles, the moaiBOT. He scours websites daily, looking for changes.<br>Charles likes fishing and long walks on the beach. |
 | -- | -- |
 
-Additionally, the following the metrics are captured:
+Additionally, the following the metrics are captured from my knowlendge:
 
 * **Regulatory code**: Gain insight into how often a website is updated
 * **HTTPS**: Sadly, many website infrastructures do not provide HTTPS which [provides no data security](https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure) to its visitors
